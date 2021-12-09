@@ -1,7 +1,7 @@
 {
     "name": "巨好玩",
     "short_name": "巨好玩",
-    "start_url": "/draft",
+    "start_url": "/draft/",
     "icons": [
         {
             "src": "/draft/android-chrome-192x192.png",
