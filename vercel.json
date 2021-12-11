@@ -1,8 +1,8 @@
 {
     "redirects": [
         {
-            "source": "/draft/:slug*",
-            "destination": "/:slug*",
+            "source": "/draft/:slug(.*)",
+            "destination": "/:slug",
             "permanent": false
         }
     ]
